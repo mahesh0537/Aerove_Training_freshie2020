@@ -7,4 +7,5 @@
 <h3>Matplotlib (v2.1.1)</h3>
 
 <h1>Instructions for simulation</h1>
-<p></p>
+<p>Paste the world_10.world in worlds directory of sitl_gazebo of PX4-Autopilot</p>
+<p>Add a directory named drone_image then in that add depth in src directory of sitl_gazebo of PX4-Autopilot</p>
