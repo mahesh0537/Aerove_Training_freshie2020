@@ -9,3 +9,6 @@
 <h1>Instructions for simulation</h1>
 <p>Paste the world_10.world in worlds directory of sitl_gazebo of PX4-Autopilot</p>
 <p>Add a directory named drone_image then in that add depth in src directory of sitl_gazebo of PX4-Autopilot</p>
+<p></p>
+
+<a href="https://docs.google.com/presentation/d/15ZFNUwxWwzRH9L-zOB1zeDnMaY8qdxDAZGL8I5dpGo8/edit#slide=id.gcc1d0a5aff_6_19"><h1>Our Presentation</h1></a>
