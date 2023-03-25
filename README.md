@@ -11,4 +11,4 @@
 <p>Add a directory named drone_image then in that add depth in src directory of sitl_gazebo of PX4-Autopilot</p>
 <p></p>
 
-## [Our Presentation](https://docs.google.com/presentation/d/15ZFNUwxWwzRH9L-zOB1zeDnMaY8qdxDAZGL8I5dpGo8/edit#slide=id.gce72c71d58_0_130)
+## [Our Presentation](https://docs.google.com/presentation/d/1YubV6H3WA65B3se2A726j0qKhQwIuDeicksZZtdyRAI/edit?usp=sharing)
